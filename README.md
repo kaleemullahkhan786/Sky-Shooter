@@ -71,15 +71,6 @@ localStorage.removeItem('skyshooter:playerName');
 - Auto-fire rate: `player.fireCooldownMs`
 - Add enemies/power-ups in `game.js`
 
-## 🌐 Deploy (GitHub Pages)
-1. Push to a GitHub repository.
-2. Repo → Settings → Pages → Source: `main` branch, folder: `/ (root)`.
-3. Visit: `https://<your-username>.github.io/<repo-name>/`.
-
-If it doesn’t load, ensure paths are relative and files are present.
-
-## 📣 Credits & License
-- Fonts: Orbitron + Inter (Google Fonts)
-- License: MIT-style permissive — free to use/modify
 
 Have fun and happy shooting! 🔥
+
